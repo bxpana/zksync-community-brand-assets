@@ -1,4 +1,4 @@
-<img src="https://github.com/bxpana/zksync-community-brand-assets/blob/dc31b22b64e9ea93ea23db6ca0caa41d1107fa4f/zkSync/Era/zk-sync-era-dark.svg" height="80px">
+<img src="https://github.com/bxpana/zksync-community-brand-assets/blob/39be2a610abf9a8417f9a9107ea076331446934b/zkSync/Era%E2%88%8E%20/Era.png" height="80px">
 
 # Community Brand Assets
-zkSync images and logos for and from the community. 
+zkSync images and logos for and from the community. ∎ 
